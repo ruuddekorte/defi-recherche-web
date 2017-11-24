@@ -1,33 +1,15 @@
 # defi-recherche-web
-exercice de recherche sur internet
-# Objectifs
-* apprendre à effectuer une recherche efficace sur Internet
-* savoir synthétiser du contenu
-* mesurer la crédibilité et la fiabilité d'une source 
-* acquérir une culture générale autour du web
-* Découvrir le Markdown
-
-# Organisation
-* Créer un repo "defi-recherche-web" sur github
-* Créer un fichier README.md
-* Reportez correctement vos réponses dans ce fichier en précisante
-  * la question
-  * les sources de votre réponse
-* Soyez le plus clair et explicite possible
-* Après chaque réponse, 
-  * git commit, git push
-
 
 # Défi
 
 * Par qui, quand, pourquoi et où a été inventé Internet ?
-Arpanet inventee par l'armee americain, les annees 1960, pour garder de connections de command, cold war, amerique.
+* Arpanet inventee par l'armee americain, les annees 1960, pour garder de connections de command, cold war, amerique.
 Plus tard evolué en internet.
-source : https://en.wikipedia.org/wiki/History_of_the_Internet
+* source : https://en.wikipedia.org/wiki/History_of_the_Internet
 
 * Quelle est la différence entre le Web et Internet ?
 Le web est un element du internet, l'internet est encore beacoup plus, exemple mail; ftp; ..
-source : moi
+* source : moi
 
 * Qu’est-ce que cela :
   * 8.8.8.8
