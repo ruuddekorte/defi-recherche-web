@@ -3,9 +3,10 @@
 # Défi
 
 * Par qui, quand, pourquoi et où a été inventé Internet ?
-* Arpanet inventee par l'armee americain, les annees 1960, pour garder de connections de command, cold war, amerique.
-Plus tard evolué en internet.
-* source : https://en.wikipedia.org/wiki/History_of_the_Internet
+> Arpanet inventee par l'armee americain, les annees 1960, pour garder de connections de command, cold war, amerique.
+> Plus tard evolué en internet.
+
+> source : https://en.wikipedia.org/wiki/History_of_the_Internet
 
 * Quelle est la différence entre le Web et Internet ?
 Le web est un element du internet, l'internet est encore beacoup plus, exemple mail; ftp; ..
