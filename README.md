@@ -1,8 +1,6 @@
 # defi-recherche-web
 
-# Défi
-
-### Par qui, quand, pourquoi et où a été inventé Internet ?
+#### Par qui, quand, pourquoi et où a été inventé Internet ?
 > Arpanet inventee par l'armee americain, les annees 1960, pour garder de connections de command, cold war, amerique.
 > Plus tard evolué en internet.
 
