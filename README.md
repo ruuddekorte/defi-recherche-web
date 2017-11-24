@@ -6,8 +6,8 @@
 
 > source : https://en.wikipedia.org/wiki/History_of_the_Internet
 
-* Quelle est la différence entre le Web et Internet ?
-Le web est un element du internet, l'internet est encore beacoup plus, exemple mail; ftp; ..
+#### Quelle est la différence entre le Web et Internet ?
+> Le web est un element du internet, l'internet est encore beacoup plus, exemple mail; ftp; ..
 * source : moi
 
 * Qu’est-ce que cela :
