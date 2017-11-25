@@ -5,7 +5,7 @@
 #### Par qui, quand, pourquoi et où a été inventé Internet ?
 Arpanet, invention de l’Internet militaire. 
 Dès 1962, l’ARPA (Advanced Research Project Agency) branche de l’armée américaine spécialisée dans la recherche de technologies de pointe a l’idée d’un réseau global d’ordinateurs. Ce n’est qu’en 1969 que 4 ordinateurs seront reliés entre eux par le réseau appelé ARPANET, ces derniers appartenant à 4 universités américaines. C’est à partir des années 70 que l’internet que l’on connaît aujourd’hui va prendre naissance… Dans les annees 80 sa s'evolué en internet que on connait aujourd'hui.
-* (https://en.wikipedia.org/wiki/History_of_the_Internet "Wikipedia")
+* [I'm an inline-style link](https://en.wikipedia.org/wiki/History_of_the_Internet "Wikipedia")
 * (https://www.youtube.com/watch?v=olTPFPwjXQo "YouTube")
 
 #### Quelle est la différence entre le Web et Internet ?
