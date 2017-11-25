@@ -1,14 +1,16 @@
 # defi-recherche-web
 
 #### Par qui, quand, pourquoi et où a été inventé Internet ?
-> Arpanet inventee par l'armee americain, les annees 1960, pour garder de connections de command, cold war, amerique.
-> Plus tard evolué en internet.
+> Arpanet, invention de l’Internet militaire. 
+> Dès 1962, l’ARPA (Advanced Research Project Agency) branche de l’armée américaine spécialisée dans la recherche de technologies de pointe a l’idée d’un réseau global d’ordinateurs. Ce n’est qu’en 1969 que 4 ordinateurs seront reliés entre eux par le réseau appelé ARPANET, ces derniers appartenant à 4 universités américaines. C’est à partir des années 70 que l’internet que l’on connaît aujourd’hui va prendre naissance… Dans les annees 80 sa s'evolué en internet que on connait aujourd'hui.
 
-> source : https://en.wikipedia.org/wiki/History_of_the_Internet
+> sources : https://en.wikipedia.org/wiki/History_of_the_Internet
+>           https://www.youtube.com/watch?v=olTPFPwjXQo
 
 #### Quelle est la différence entre le Web et Internet ?
-> Le web est un element du internet, l'internet est encore beacoup plus, exemple mail; ftp; ..
-#### source : moi
+> Internet est le réseau informatique mondial, c'est l'infrastructure globale, basée sur le protocole IP, et sur laquelle s'appuient de nombreux autres services. Dont le web. 
+> Le World Wide Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur.
+#### source : https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
 
 #### Qu’est-ce que cela :
   * 8.8.8.8
