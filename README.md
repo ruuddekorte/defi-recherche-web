@@ -5,35 +5,35 @@
 #### Par qui, quand, pourquoi et où a été inventé Internet ?
 Arpanet, invention de l’Internet militaire. 
 Dès 1962, l’ARPA (Advanced Research Project Agency) branche de l’armée américaine spécialisée dans la recherche de technologies de pointe a l’idée d’un réseau global d’ordinateurs. Ce n’est qu’en 1969 que 4 ordinateurs seront reliés entre eux par le réseau appelé ARPANET, ces derniers appartenant à 4 universités américaines. C’est à partir des années 70 que l’internet que l’on connaît aujourd’hui va prendre naissance… Dans les annees 80 sa s'evolué en internet que on connait aujourd'hui.
-* [I'm an inline-style link](https://en.wikipedia.org/wiki/History_of_the_Internet "Wikipedia")
-* (https://www.youtube.com/watch?v=olTPFPwjXQo "YouTube")
+* [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet "Wikipedia")
+* [YouTube](https://www.youtube.com/watch?v=olTPFPwjXQo "YouTube")
 
 #### Quelle est la différence entre le Web et Internet ?
 Internet est le réseau informatique mondial, c'est l'infrastructure globale, basée sur le protocole IP, et sur laquelle s'appuient de nombreux autres services. Dont le web. 
 
 Le World Wide Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur.
-* https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
+* [miximum.fr](https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/)
 
 #### Qu’est-ce que cela :
-* 8.8.8.8
+* [8.8.8.8](https://developers.google.com/speed/public-dns/docs/using "source : developers.google.com")
     * Adresse IP classe A du system DNS a partir de google, souvent utilisee comme alternative, et comme deuxieme dns 8.8.4.4
-* 192.168.0.1
-    * Adresse IP (classe C)  local dans la plage *reservé pour utilisation sur reseau locale, ceci nest pas parti "d'internet"
-* 255.255.255.0
-    * Masque ip, utiliser pour determiner un plage du reseau IP
-* 127.0.0.1
-    * Adresse 'localhost' reserve pour usage local
+* [192.168.0.1](https://en.wikipedia.org/wiki/Private_network)
+    * Adresse IP (classe C)  local dans la plage reservé pour utilisation sur reseau locale, ceci est l'adres (ainsi que le plus connu **192.168.1.1**) des router gateway de plusiers marques donner acces a l'internet
+* [255.255.255.0](https://fr.wikipedia.org/wiki/Sous-r%C3%A9seau "Masque de Sous-réseau. source : Wikipedia")
+    * Masque de Sous-réseau, adresse IP, utilisé pour determiner le plage du reseau IP
+* [127.0.0.1](https://fr.wikipedia.org/wiki/Localhost "localhost. source : Wikipedia")
+    * Adresse 'localhost' reservé pour usage local
 
   
 #### Que sont le copyright et le copyleft ?
-copyright : Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre littéraire, artistique ou scientifique.
+**Copyright** : Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre littéraire, artistique ou scientifique.
 
-Copyleft : Officiellement l'opposé de copyright, mais en réalité le copyleft est un copyright, un copyright avec des droits plus libres, plus tolérants, ouverts, etc. Le véritable opposé de copyright étant le domaine public.
+**Copyleft** : Officiellement l'opposé de copyright, mais en réalité le copyleft est un copyright, un copyright avec des droits plus libres, plus tolérants, ouverts, etc. Le véritable opposé de copyright étant le domaine public.
 * https://forum.ubuntu-fr.org/viewtopic.php?id=39233
 
 #### Que sont les Creatives Commons ?
 La copie, modification et distribution (y compris commerciale) sont autorisées, mais soumises aux règles d'attribution et de partage dans les mêmes conditions (BY-SA). Le long métrage expérimental Le Bal des Innocents (2006) est distribué sous licence Creative Commons CC BY-NC-ND 2.0.
-*https://fr.wikipedia.org/wiki/Licence_Creative_Commons
+* https://fr.wikipedia.org/wiki/Licence_Creative_Commons
 
 #### Qui est Grace Hopper ?
 Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
@@ -53,7 +53,6 @@ En informatique, un bug (mot anglais bug) ou bogue (au Nouveau-Brunswick, au Qu�
 Le 9 septembre 1945, Grace Hopper, un officier de l’US Navy,  travaille sur un ordinateur Harvard Mark II (l’un des ancêtres du PC ?). Elle trouve un papillon coincé entre les  relais électriques de la machine. A l’époque, les ordinateurs remplissent un volume considérable (des salles entières), consomment beaucoup d’énergie et produisent beaucoup de chaleur. Une température qui attire de nombreux insectes (bugs en anglais) qui s’invitent un peu partout entre les composants des machines.
 
 Le papillon en question cause un court-circuit et provoque un dysfonctionnement de l’ordinateur. Et c’est de là que viendrait l’expression « bug dans l’ordinateur ». Celle-ci n’a peut-être pas été inventée par l’officier de la Navy. Mais comme elle tenait un journal, il s’agirait du premier rapport de bug de l’histoire.
-
 * https://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/
 
 #### Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
