@@ -1,6 +1,5 @@
 # defi-recherche-web
-
----
+===
 
 #### Par qui, quand, pourquoi et où a été inventé Internet ?
 Arpanet, invention de l’Internet militaire. 
@@ -10,8 +9,7 @@ Dès 1962, l’ARPA (Advanced Research Project Agency) branche de l’armée am�
 
 #### Quelle est la différence entre le Web et Internet ?
 Internet est le réseau informatique mondial, c'est l'infrastructure globale, basée sur le protocole IP, et sur laquelle s'appuient de nombreux autres services. Dont le web. 
-
-Le World Wide Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur.
+> Le World Wide Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur.
 * [miximum.fr](https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/)
 
 #### Qu’est-ce que cela :
@@ -94,35 +92,74 @@ Le moter de recherche Duck Duck Go a créé une fonctionnalité qui permet de la
 * https://duckduckgo.com/bang
 
 #### Qui est Marissa Mayer ?
+Marissa Mayer. Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Après 13 ans passés chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation, elle occupe de 2012 à 2017 le poste de PDG de Yahoo!.
+* https://fr.wikipedia.org/wiki/Marissa_Mayer
+* http://www.leparisien.fr/high-tech/marissa-mayer-une-star-de-la-silicon-valley-qui-s-est-casse-les-dents-sur-yahoo-25-07-2016-5993601.php
 
 #### Qu’est-ce qu’une attaque “brute force” ?
+Une attaque par force brute, ou attaque par exhaustivité, est une méthode utilisée par les pirates et en cryptanalyse pour découvrir le mot de passe ou la clef. Exhaustivité car il s'agit d'essayer toutes les combinaisons possibles !
 
 #### Qui est Linus Torvalds ? 
+Linus Torvalds. Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais. Il est connu pour avoir créé en 1991 (à 22 ans) le noyau Linux dont il continue de diriger le développement. Il en est considéré comme le « dictateur bienveillant ».
+Linus Torvalds — Wikipédia
+* https://fr.wikipedia.org/wiki/Linus_Torvalds
   * Quels sont ses plus grands développements ?
+Il est connu pour avoir créé en 1991 le noyau Linux. Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d'enregistrement et de planification des plongées Subsurface (en). 
+* https://fr.wikipedia.org/wiki/Noyau_Linux
+* https://fr.wikipedia.org/wiki/Gestion_de_versions#Gestion_de_versions_d.C3.A9centralis.C3.A9e
+* https://en.wikipedia.org/wiki/Subsurface_(software)
 
 #### Combien coûte un nom de domaine ?
+Apartir de 0,95 € (promo amen.fr) jusque-au 345 millons $. Selon le registrar et l'extension choisie de votre nom de domaine, le prix d'un NDD peut varier. En règle générale, il varie entre 6 et 15 euros. Sachez qu'en plus du nom de domaine, vous aurez à payer un hébergement supplémentaire pour que votre nom de domaine soit en ligne et visible par les internautes.
+* www.nddconline.org/31-combien-coute-un-nom-de-domaine
+* https://blog.domraider.com/fr/les-20-domaines-les-plus-chers-de-tous-les-temps/
 
 #### Quels sont les différents services d'emailing disponibles ?
-  * Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+Pour éviter le spam et garantir la sécurité des comptes, Gmail limite le nombre de messages que vous pouvez envoyer ou recevoir par jour a 500 e-mails au cours d'une même journée, ainsi que le nombre de personnes que vous pouvez ajouter en tant que destinataires.
+* Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+Si moins de 500 messages, gmail sera un bon option. Normalement cette adresse n'est pas visible pour les visiteurs. Autre solution prefere : un adres mail du domain du client.
 
 #### Quelle est votre adress IP actuelle ?
- * Et celle de votre smartphone ?
+    * 90.76.174.3
+**Et celle de votre smartphone ?**
+    * 77.136.87.152
+ * https://showip.net/
+ * http://www.showmemyip.com/
 
 #### Qu’est-ce que le développement en cycle V ?
+Ce modèle est une amélioration du modèle en cascade qui permet en cas d'anomalie, de limiter un retour aux étapes précédentes. Les phases de la partie montante doivent renvoyer de l'information sur les phases en vis-à-vis lorsque des défauts sont détectés afin d'améliorer le logiciel.
+* https://fr.wikipedia.org/wiki/Cycle_de_développement_(logiciel)
+* https://fr.wikipedia.org/wiki/Cycle_en_V
 
 #### Les Hackers sont-ils des hors-la-loi ?
 
+En base quand le cible donne accord ou demande le hack pour tester les messures de securité. 
+En sécurité informatique, un hacker (ou pirate) est un spécialiste qui recherche les moyens de contourner les protections logicielles et matérielles. Il peut vouloir signaler les failles trouvées au propriétaire du système concerné (dans une démarche d'amélioration de la sécurité de ce système), en tirer profit, les utiliser dans une démarche militante (on parle alors d'hacktivisme) ou simplement considérer le contournement (hacking) comme un défi1.
+* http://sef.xena.ad/lcf/traque/hackers.htm
+* https://manedem.wordpress.com/2013/02/19/hacker-ou-pirateune-nuance-entre-les-deux-termes/
+* https://fr.wikipedia.org/wiki/Hacker_(s%C3%A9curit%C3%A9_informatique) 
+
 #### Qui a inventé la souris ?
+La souris a été inventée en 1963 par Douglas Engelbart du Stanford Research Institute et présentée au public en 1968.
+* https://fr.wikipedia.org/wiki/Souris_(informatique)
 
 #### Qui est Margaret Hamilton ?
+Margaret Hamilton, née le 17 août 1936 à Paoli dans l'Indiana, est une informaticienne et mathématicienne. Elle était directrice du département génie logiciel (« software engineering », terme de son invention) du MIT Instrumentation Laboratory qui conçut le système embarqué du programme Apollo.
+* https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)
 
 #### Retrouvez le code source de la mission Apollo 11.
+Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099). Digitized by the folks at Virtual AGC and MIT Museum. 
   * Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
-#### Qu’est-ce que Agile Manifesto ?
-#### Trouvez un screenshot de la première version de Facebook
-> https://web.archive.org/web/19981212013921/http://facebook.com:80/
+"When programmers at the MIT Instrumentation Laboratory set out to develop the flight software for the Apollo 11 space program in the mid-1960s, the necessary technology did not exist. They had to invent it.
+They came up with a new way to store computer programs, called “rope memory,” and created a special version of the assembly programming language. Assembly itself is obscure to many of today’s programmers—it’s very difficult to read, intended to be easily understood by computers, not humans. For the Apollo Guidance Computer (AGC), MIT programmers wrote thousands of lines of that esoteric code."
+* https://github.com/chrislgarry/Apollo-11/
+* https://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/
 
-> source : archive .org
+#### Qu’est-ce que Agile Manifesto ?
+Le Manifeste pour le développement Agile de logiciels est un texte rédigé par 17 experts du développement d'applications informatiques sous la forme de plusieurs méthodes dites agiles. Ces experts estimaient que le traditionnel cycle de développement en cascade ne correspondait plus aux contraintes et aux exigences des organisations en évolution rapide. Les méthodes agiles ne sont pas apparues avec l’Agile manifesto en 2001 mais celui-ci détermine leur commun dénominateur et consacre le terme d'« agile » pour les référencer. Les valeurs et principes du Manifeste agile sont défendus par l'Agile Alliance.
+
+#### Trouvez un screenshot de la première version de Facebook
+* https://web.archive.org/web/19981212013921/http://facebook.com:80/
 
 #### Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
 
