@@ -14,13 +14,13 @@ Internet est le réseau informatique mondial, c'est l'infrastructure globale, ba
 
 #### Qu’est-ce que cela :
 * [8.8.8.8](https://developers.google.com/speed/public-dns/docs/using "source : developers.google.com")
-    * Adresse IP classe A du system DNS a partir de google, souvent utilisee comme alternative, et comme deuxieme dns 8.8.4.4
+> Adresse IP classe A du system DNS a partir de google, souvent utilisee comme alternative, et comme deuxieme dns 8.8.4.4
 * [192.168.0.1](https://en.wikipedia.org/wiki/Private_network)
-    * Adresse IP (classe C)  local dans la plage reservé pour utilisation sur reseau locale, ceci est l'adres (ainsi que le plus connu **192.168.1.1**) des router gateway de plusiers marques donner acces a l'internet
-* [255.255.255.0](https://fr.wikipedia.org/wiki/Sous-r%C3%A9seau "Masque de Sous-réseau. source : Wikipedia")
-    * Masque de Sous-réseau, adresse IP, utilisé pour determiner le plage du reseau IP
+> Adresse IP (classe C)  local dans la plage reservé pour utilisation sur reseau locale, ceci est l'adres (ainsi que le plus connu **192.168.1.1**) des router gateway de plusiers marques donner acces a l'internet
+[255.255.255.0](https://fr.wikipedia.org/wiki/Sous-r%C3%A9seau "Masque de Sous-réseau. source : Wikipedia")
+> Masque de Sous-réseau, adresse IP, utilisé pour determiner le plage du reseau IP
 * [127.0.0.1](https://fr.wikipedia.org/wiki/Localhost "localhost. source : Wikipedia")
-    * Adresse 'localhost' reservé pour usage local
+> Adresse 'localhost' reservé pour usage local
 
   
 #### Que sont le copyright et le copyleft ?
