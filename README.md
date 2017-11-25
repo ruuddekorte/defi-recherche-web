@@ -10,21 +10,24 @@
 > Le web est un element du internet, l'internet est encore beacoup plus, exemple mail; ftp; ..
 * source : moi
 
-* Qu’est-ce que cela :
+#### Qu’est-ce que cela :
   * 8.8.8.8
-  (classe A IP) adresse du system DNS a partir de google, souvent utilisee comme alternative, et comme deuxieme dns 8.8.4.4
+  > (classe A IP) adresse du system DNS a partir de google, souvent utilisee comme alternative, et comme deuxieme dns 8.8.4.4
   * 192.168.0.1
-  (classe C) Adresse local dans la plage reservé pour utilisation locale, ceci nest pas parti "d'internet"
+  > (classe C) Adresse local dans la plage reservé pour utilisation sur reseau locale, ceci nest pas parti "d'internet"
   * 255.255.255.0
-  Masque ip, utiliser pour determiner un plage du reseau IP
+  > Masque ip, utiliser pour determiner un plage du reseau IP
   * 127.0.0.1
-  Adresse 'localhost' reserve pour usage local
-  source : moi
+  > Adresse 'localhost' reserve pour usage local
+  
+  >> source : moi
   
 * Que sont le copyright et le copyleft ?
-  copyright : Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre littéraire, artistique ou scientifique. Ça vous va comme définition ? Je ne suis pas trop d'accord avec "commercialement", mais ce n'est pas évident de trouver une définition simple, précise et juste de copyright.
-Copyleft : Officiellement l'opposé de copyright, mais en réalité le copyleft est un copyright, un copyright avec des droits plus libres, plus tolérants, ouverts, etc. On devrait donc dire : le copyright copyleft (ça fait un peu lourd et du coup un peu difficile de s'annoncer en tant que "l'opposé"). Le véritable opposé de copyright étant le domaine public
-source : https://forum.ubuntu-fr.org/viewtopic.php?id=39233
+> copyright : Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre littéraire, artistique ou scientifique.
+
+> Copyleft : Officiellement l'opposé de copyright, mais en réalité le copyleft est un copyright, un copyright avec des droits plus libres, plus tolérants, ouverts, etc. Le véritable opposé de copyright étant le domaine public.
+
+> source : https://forum.ubuntu-fr.org/viewtopic.php?id=39233
 
 * Que sont les Creatives Commons ?
 * Qui est Grace Hopper ?
