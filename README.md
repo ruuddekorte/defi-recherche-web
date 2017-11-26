@@ -367,20 +367,53 @@ Le nom de l'entreprise Google a pour origine le terme mathématique « *googol* 
 4, b, 1f, 7b5
 
 #### Quelles sont les nouveautés apportées par le HTML 5 ?
+    * Un allégement du code
+    * Nouvelles balises
+    * Nouveaux éléments de formulaire
+    * 8 nouvelles API 
+    * Connexion et distribution P2P
+* https://www.aurone.com/les-nouveaut%C3%A9s-apport%C3%A9es-par-html-5
 
 #### Qu’est-ce que ECMAScript 2015 ?
+Une sixième version majeure du standard Javascript a été finalisée et publiée le *17 juin 2015*. Cette version s'intitule officiellement **ECMAScript 2015** mais est encore fréquemment appelée **ECMAScript 6** ou **ES6**. 
+* https://developer.mozilla.org/fr/docs/Web/JavaScript
 
 ####  Quelles nouveautés par rapport à la 
-version précédente ? 
- * Quelles différences avec ES 6 ?
+version précédente ?
+Variables locales,  Arguments par défault, Déstructuration, Chaînes de caractères sur plusieurs lignes, Sucre syntaxique, Proxies, Weak maps, Générateurs, Structure de données, Approche objet, Modules, Variable privées.
+>* Quelles différences avec ES 6 ?
+> aucune, ES6 = ECMAScript 2015
+* https://www.synbioz.com/blog/ecmascript_6
 
 #### Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
+Une application **native** est une application développée spécifiquement pour une seule plateforme. 
+Une **WebApps** est une application mobile développée avec les outils de développement web actuel: HTML5, CSS3 et Javascript. 
+Développement multiplateformes (**cross-platform** : développez une seule application pour Android, iOS et Windows Phone.
+Les applications **hybrides** sont des applications qui combinent les éléments d’une WebApps et les éléments d’une application native.
+* http://www.supinfo.com/articles/single/145-application-mobile-native-web-hybride
 
 #### Qu’est-ce que xkcd ?
+xkcd (ou XKCD) est une bande dessinée en ligne créée par Randall Munroe, un ancien consultant sur les robots à la NASA. L'auteur la définit comme « un webcomic sarcastique qui parle de romance, de maths et de langage ».
+* https://xkcd.com/
+* https://fr.wikipedia.org/wiki/Bande_dessin%C3%A9e_en_ligne
+* http://www.zark.com/
+
 
 #### Qu’est-ce que Mr Robot ?
+Mr. Robot est une série télévisée américaine : Elliot Alderson est un jeune informaticien vivant à New York, qui travaille en tant que technicien en sécurité informatique pour Allsafe Security. Celui-ci luttant constamment contre un trouble d’anxiété sociale et de dépression, son processus de pensée semble fortement influencé par la paranoïa et l'illusion. Il pirate les comptes des gens, ce qui le conduit souvent à agir comme un cyber-justicier. Elliot rencontre « Mr. Robot », un mystérieux anarchiste qui souhaite le recruter dans son groupe de hackers connu sous le nom de « Fsociety ». Leur objectif consiste à rétablir l'équilibre de la société par la destruction des infrastructures des plus grosses banques et entreprises du monde, notamment le conglomérat E Corp. (surnommé « Evil Corp. » par Elliot) qui, par ailleurs, représente 80 % du chiffre d’affaires d’Allsafe Security.
+* http://www.imdb.com/title/tt4158110/
+* https://fr.wikipedia.org/wiki/Mr._Robot_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)
 
 #### Qu’est-ce que OpQuast ?
+Le projet Opquast (Open Quality Standards) vise à améliorer la qualité des sites web, dans toutes leurs dimensions : développement, accessibilité, ergonomie, référencement, contenus, services, etc. Porté depuis 2004 par un collectif de contributeurs coordonné par Elie Sloïm, président de la société Temesis, Opquast met à la disposition des professionnels du Web plusieurs outils gratuitement, notamment un recueil de plus de 200 bonnes pratiques de qualité web.
+* https://www.opquast.com/
+* https://editoile.fr/jai-passe-la-certification-de-qualite-web-opquast/
 
 #### Quelles sont les différences entre un client web et un serveur web ?
+On a souvent tendance à dire "Le client est l'ordinateur du visiteur et le serveur celui du fournisseur d'accès". C'est vrai et faux.
+* http://www.php-astux.info/langages-serveur-client.php
   * Donnez 3 exemples de chaque
+**client web** : microsoft internet explorer (msie), google chrome, opera , apple safari, firefox,  microsoft edge opera neon
+**serveur web** : Apache Tomcat, Internet Information Services (IIS),  Nginx, Lighttpd...
+
+* http://sarah-sarahel.blogspot.fr/2013/10/difference-entre-un-serveur-web-et-un.html
